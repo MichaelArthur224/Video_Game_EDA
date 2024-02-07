@@ -15,15 +15,15 @@ Values
 - Rating: ESRB's categorization for games (e.g., E for Everyone,T for Teen,M for Mature etc.)
 
 Questions to Ask
-- 1. What region has the most sales 
-- 2. what genre sells the best 
-- 3. where the top genre sells the most 
-- 4. Developer that sells the most 
-- 5. Platform with the most sales
+- What region has the most sales 
+- what genre sells the best 
+- where the top genre sells the most 
+- Developer that sells the most 
+- Platform with the most sales
 
 Answers
-- 1. North America
-- 2. Action
-- 3. North America
-- 4. Nintendo
-- 5. PS2
+- North America
+- Action
+- North America
+- Nintendo
+- PS2
